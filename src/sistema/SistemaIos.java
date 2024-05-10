@@ -1,8 +1,8 @@
 package sistema;
 
-import Entities.Internet;
-import Entities.Ipod;
-import Entities.Telefone;
+import entities.Internet;
+import entities.Ipod;
+import entities.Telefone;
 
 public class SistemaIos implements Internet, Ipod, Telefone{
 

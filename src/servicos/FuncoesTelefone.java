@@ -1,6 +1,6 @@
 package servicos;
 
-import Entities.Telefone;
+import entities.Telefone;
 
 public class FuncoesTelefone implements Telefone {
 

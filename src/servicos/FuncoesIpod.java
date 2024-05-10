@@ -1,6 +1,6 @@
 package servicos;
 
-import Entities.Ipod;
+import entities.Ipod;
 
 public class FuncoesIpod implements Ipod {
 

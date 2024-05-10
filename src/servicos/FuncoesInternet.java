@@ -1,6 +1,6 @@
 package servicos;
 
-import Entities.Internet;
+import entities.Internet;
 
 public class FuncoesInternet implements Internet{
 
